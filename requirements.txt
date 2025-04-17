@@ -1,0 +1,9 @@
+gradio==5.25.0
+gTTS==2.5.4
+googletrans==4.0.0rc1
+transformers
+SpeechRecognition==3.14.2
+pydub==0.25.1
+deep-translator==1.11.4
+elevenlabs==1.56.0
+python-dotenv==1.1.0
